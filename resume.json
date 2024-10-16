@@ -1,0 +1,30 @@
+{
+  "name": "Pavithra J",
+  "email": "pavithrajothi2002@gmail.com",
+  "phone": "9842009691",
+  "summary": "A passionate software developer with expertise in MERN stack and web development.",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "TailwindCSS"
+  ],
+  "experience": [
+    {
+      "jobTitle": "Software Developer",
+      "company": "Tech Solutions Inc.",
+      "years": 2
+    },
+    {
+      "jobTitle": "Frontend Developer",
+      "company": "Web Dev Co.",
+      "years": 1
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "university": "State University",
+    "graduationYear": 2024
+  }
+}
